@@ -14,7 +14,7 @@ public class Todo {
 
     private String descricao;
 
-    private boolean realizacao;
+    private boolean realizado;
 
     private int prioridade;
 
@@ -42,12 +42,12 @@ public class Todo {
         this.descricao = descricao;
     }
 
-    public boolean isRealizacao() {
-        return realizacao;
+    public boolean isRealizado() {
+        return realizado;
     }
 
-    public void setRealizacao(boolean realizacao) {
-        this.realizacao = realizacao;
+    public void setRealizado(boolean realizado) {
+        this.realizado = realizado;
     }
 
     public int getPrioridade() {
