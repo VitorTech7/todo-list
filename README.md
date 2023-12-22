@@ -17,7 +17,7 @@ O projeto foi elaborado [nesse vídeo](https://youtu.be/IjProDV001o).
 - [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [SpringDoc OpenAPI 3](https://springdoc.org/v2/#spring-webflux-support)
-- [Mysql](https://dev.mysql.com/downloads/)
+- [MySQL](https://dev.mysql.com/downloads/)
 
 ## Práticas adotadas
 
